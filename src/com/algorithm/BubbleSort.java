@@ -1,4 +1,4 @@
-package com.learn;
+package com.algorithm;
 
 public class BubbleSort {
 
